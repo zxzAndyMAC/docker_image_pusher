@@ -1,2 +1,1 @@
-andyzhengll/fozmo-rag:nightly-slim
---platform=linux/amd64
+--platform=linux/amd64 andyzhengll/fozmo-rag:nightly-slim
